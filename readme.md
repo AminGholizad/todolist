@@ -10,7 +10,7 @@ with your token you can add todo to your list and then see your list, edit and d
 
 -   FastAPI
 
-    -   routes and different ?? methods
+    -   routes and different HTTP methods
     -   Multiple file structure of the fastapi
     -   Dependency injection
     -   OAuth2 password bearer flow
